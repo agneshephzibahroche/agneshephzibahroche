@@ -19,10 +19,10 @@ I’m an enthusiastic and motivated Computer Science undergraduate eager to appl
 - January 2022 Kodecoon Intern: Managed student enrollment, planned hackathon logistics, and developed educational content for LEGO Spike Prime 📝.
 
 ## 🔗 Projects
-- [🎵 Music Visualization using P5js] (https://github.com/agneshephzibahroche/musicvis)
-- [🎛️ Stereo using JUCE library] (https://github.com/agneshephzibahroche/JuceLibraryMusicVisualisation)
-- [🎮 JavaScript Game using P5js] (https://github.com/agneshephzibahroche/p5jsgame)
-- [📚 Book Club site] (https://github.com/agneshephzibahroche/webdev)
+- [🎵 Music Visualization using P5js](https://github.com/agneshephzibahroche/musicvis)
+- [🎛️ Stereo using JUCE library](https://github.com/agneshephzibahroche/JuceLibraryMusicVisualisation)
+- [🎮 JavaScript Game using P5js](https://github.com/agneshephzibahroche/p5jsgame)
+- [📚 Book Club site](https://github.com/agneshephzibahroche/webdev)
 
 ## 🎯 Goals
 - Build a diverse portfolio of projects that challenge me to use new languages and frameworks, and push the limits of what I can code 🛠️.
