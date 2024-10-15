@@ -32,5 +32,5 @@ I’m an enthusiastic and motivated Computer Science undergraduate eager to appl
 - Seek challenging internships where I can further hone my skills and collaborate with like-minded developers 🤝.
 
 ## 📫 Let’s connect!
-Email: agneshephzibahroche@gmail.com
-GitHub: github.com/agneshephzibahroche
+- Email: agneshephzibahroche@gmail.com
+- GitHub: github.com/agneshephzibahroche
