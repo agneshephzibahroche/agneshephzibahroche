@@ -31,4 +31,4 @@ I’m an enthusiastic and motivated Computer Science undergraduate eager to appl
 
 ## 📫 Let’s connect!
 - Email: agneshephzibahroche@gmail.com
-- GitHub: github.com/agneshephzibahroche
+- GitHub: [github.com/agneshephzibahroche](github.com/agneshephzibahroche)
