@@ -11,7 +11,6 @@ I’m an enthusiastic and motivated Computer Science undergraduate eager to appl
 ## 🌱 What I’m currently working on
 - Expanding my knowledge in Machine Learning and Neural Networks 🤖.
 - Constantly coding new projects to enhance my skills 💻.
-- Currently researching to develop a personality quiz based on the 16 personality types 🧠.
 
 ## 💼 Experience
 - October 2024 Razer, Software Testing Intern
@@ -19,6 +18,7 @@ I’m an enthusiastic and motivated Computer Science undergraduate eager to appl
 - January 2022 Kodecoon Intern
 
 ## 🔗 Projects
+- [🥤 What Drink Am I? personality quiz](https://agneshephzibahroche.github.io/whatdrinkami/)
 - [🎵 Music Visualization using P5js](https://agneshephzibahroche.github.io/musicvis/)
 - [📸 Face Filter - graphics programmigs](https://agneshephzibahroche.github.io/graphics-programming/)
 - [🎮 JavaScript Game using P5js](https://agneshephzibahroche.github.io/p5jsgame/)
