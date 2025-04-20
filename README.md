@@ -1,4 +1,3 @@
--
 # 👋 Hi there, Agnes here!
 
 I’m an enthusiastic and motivated Computer Science undergraduate eager to apply my skills and grow through real-world projects. With a solid foundation in multiple programming languages and frameworks, I’m passionate about problem-solving and continuous learning.
