@@ -1,3 +1,4 @@
+-
 # 👋 Hi there, Agnes here!
 
 I’m an enthusiastic and motivated Computer Science undergraduate eager to apply my skills and grow through real-world projects. With a solid foundation in multiple programming languages and frameworks, I’m passionate about problem-solving and continuous learning.
@@ -32,3 +33,4 @@ I’m an enthusiastic and motivated Computer Science undergraduate eager to appl
 ## 📫 Let’s connect!
 - Email: agneshephzibahroche@gmail.com
 - GitHub: [github.com/agneshephzibahroche](github.com/agneshephzibahroche)
+- LinkedIn: [www.linkedin.com/in/agnes-roche]([www.linkedin.com/in/agnes-roche)
