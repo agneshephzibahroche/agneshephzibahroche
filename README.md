@@ -14,22 +14,20 @@ I'm a Computer Science graduate (First Class Honours) passionate about software 
 - Pursuing an MTech in Software Engineering at the National University of Singapore (NUS).
 
 ## 💼 Experience
-- **Apr 2025 – August 2026** — Maybank Securities, Technology Services Intern | Analyst
-- **Sep 2024 – Feb 2025** — Razer Inc., Software (Testing) Intern
-- **Mar 2024** — Part-time Coding & Robotics Instructor
-- **Jan 2022** — Kodecoon Intern
+- **Apr 2025 – August 2026:** Maybank Securities, Technology Services Intern | Analyst
+- **Sep 2024 – Feb 2025:** Razer Inc., Software (Testing) Intern
+- **Mar 2024:** Part-time Coding & Robotics Instructor
+- **Jan 2022:** Kodecoon Intern
 
 ## 📚 Education
-- **MTech Software Engineering** — National University of Singapore (NUS) | Aug 2026 - Aug 2027
-- **BSc Computer Science, First Class Honours** — University of London (Goldsmiths College) | Oct 2022 - Nov 2025
+- **MTech Software Engineering:** National University of Singapore (NUS) | Aug 2026 - Aug 2027
+- **BSc Computer Science, First Class Honours:** Singapore Institute of Management, University of London | Oct 2022 - Nov 2025
 
 ## 🔗 Projects
-- 🤖 [**AI Investment Advisor**](https://github.com/agneshephzibahroche/ai-investor-bot) — S&P 500 stock forecasting and trading-signal web app combining an LSTM price predictor with technical indicators (Python, TensorFlow/Keras, Flask, SQLAlchemy)
+- 🤖 [**AI Investment Advisor**](https://github.com/agneshephzibahroche/ai-investor-bot) - S&P 500 stock forecasting and trading-signal web app combining an LSTM price predictor with technical indicators (Python, TensorFlow/Keras, Flask, SQLAlchemy)
 - 🔒 [**Vulnerable-App-to-Secure-App Refactor**](https://github.com/agneshephzibahroche/juice-shop-security-remediation) — Full SAST/DAST security audit and remediation of OWASP Juice Shop, fixing 9+ vulnerability classes including SQL injection and stored XSS (Semgrep, OWASP ZAP, Docker)
-- 🧩 [**Letterbeat**](https://github.com/agneshephzibahroche/crossword-app) — Mobile-friendly daily 5x5 crossword game built with Next.js, featuring deterministic daily puzzles, streak tracking, and light/dark themes
-- 📰 [**Newsify**](https://github.com/agneshephzibahroche/newsify) — Turns a user's Spotify listening data into a shareable fake newspaper front page (Next.js, deployed on Vercel)
+- 🧩 [**Letterbeat**](https://github.com/agneshephzibahroche/crossword-app) - Mobile-friendly daily crossword game built with Next.js, featuring deterministic daily puzzles, streak tracking, and light/dark themes
 - [🎮 JavaScript Game using P5js](https://agneshephzibahroche.github.io/p5jsgame/)
-- [📚 Book Club site](https://agneshephzibahroche.github.io/webdev/)
 
 ## 🎯 Goals
 - Build a diverse portfolio of projects that challenge me to use new languages and frameworks, and push the limits of what I can code.
