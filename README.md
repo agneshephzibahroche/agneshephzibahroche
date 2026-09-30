@@ -1,6 +1,6 @@
 # 👋 Hi there, Agnes here!
 
-I'm a Computer Science graduate (First Class Honours) passionate about software engineering, test automation, and applying machine learning to real-world problems. I enjoy building end-to-end systems and always looking to grow through hands-on projects and challenging internships.
+I'm a Computer Science graduate (First Class Honours) passionate about software engineering, test automation, and applying machine learning to real-world problems. I enjoy building end-to-end systems and always looking to grow through hands-on projects.
 
 ## 🚀 Skills
 - **Languages**: Python, JavaScript, C++, C#, HTML/CSS, SQL, NoSQL
